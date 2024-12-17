@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My name is Christine :)
-- 🔭 I’m currently working on [Stockataka](https://github.com/Rachel-R16/Stockataka), a project using Sulu's Technical Analysis and Pokemon APIs to create an EduTech website aimed to teach 10-year olds about the stock market.
+- 🔭 I’m currently working on [Stockataka](https://github.com/Rachel-R16/Stockataka), a project using Sulu's Technical Analysis and Pokemon APIs to create an EduTech website aimed to teach 10-year-olds about the stock market.
 - 🌱 I’m currently learning Python via the [100 Days of Python](https://github.com/cchristinechan/100-Days-Of-Python) Udemy Course taught by Angela Yu
 
 <!--
